@@ -1,0 +1,873 @@
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] No valid object(s) found for 'dsi_refclk_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] No valid object(s) found for 'clk_pixel_2x'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] No valid object(s) found for 'clk_54m'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:35] set_clock_groups: Defaulting to -exclusive since none of the required option was specified
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:78] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:78] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:79] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:79] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:80] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:80] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:81] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:81] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:82] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:82] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:83] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:83] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:84] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:84] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:85] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:85] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:86] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:86] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:87] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:87] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:88] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:88] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:89] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:89] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:90] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:90] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:91] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:91] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:92] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:92] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:93] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:93] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:94] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:94] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:95] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:95] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:96] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:96] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:97] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:97] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:341] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:341] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:342] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:342] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:347] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:347] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:348] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:348] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:576] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:576] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:577] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:577] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:578] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:578] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:579] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:579] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:580] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:580] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:581] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:581] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:582] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:582] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:583] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:583] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:584] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:584] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:585] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:585] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:586] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:586] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:587] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:587] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:588] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:588] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:589] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:589] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:590] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:590] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:591] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:591] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:592] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:592] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:593] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:593] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:594] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:594] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:595] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:595] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:596] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:596] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:597] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:597] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:598] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:598] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:599] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:599] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:600] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:600] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:601] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:601] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:602] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:602] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:603] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:603] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:604] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:604] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:605] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:605] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:606] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:606] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:607] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:607] Unable to run 'set_input_delay' constraint due to warnings found
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Router Setup
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : [Setup Parallel Routing Scheduler]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Route Circuit with 32 threads
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 1.61% (from 4291ps to 4222ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 2193ps to 2193ps)
+INFO     : CSS improved CPD of clock core_clk by 0.00% (from 4338ps to 4338ps)
+INFO     : CSS improved CPD of clock tac_clk by -0.97% (from 2271ps to 2293ps)
+INFO     : CSS improved CPD of clock twd_clk by 2.09% (from 2387ps to 2337ps)
+INFO     : CSS improved CPD of clock clk_sys by 0.00% (from 6350ps to 6350ps)
+INFO     : CSS improved CPD of clock clk_pixel by 2.78% (from 29634ps to 28809ps)
+INFO     : CSS improved CPD of clock csi_rxc_i by 0.00% (from 2761ps to 2761ps)
+INFO     : Discretized beneficial skew improved geomean CPD by 0.58% (from 4291ps to 4266ps in 8 iterations and 0.3 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Overridding delay budgets for 539 synchronizer-related pins
+
+INFO     : Iter  1: overlap=23388   heapops=2646296    (0%) cpd=28809 frr=1.00  msec=1250
+INFO     : [Setup Delay Budgets | 372.5 ms]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Hold Fixing
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Total min wire delay:   4133958
+INFO     : Hold fix wire delay:       4081
+INFO     : Hold fix delay ratio:     0.10%
+INFO     : Pins requiring hold fix:  0.11%
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter  2: overlap=11414   heapops=2055598    (32%) cpd=28807 frr=1.00  msec=387
+INFO     : Iter  3: overlap=8089    heapops=1720485    (45%) cpd=28806 frr=1.00  msec=319
+INFO     : Iter  4: overlap=5909    heapops=1442329    (52%) cpd=28806 frr=1.00  msec=315
+INFO     : Iter  5: overlap=4245    heapops=1185038    (59%) cpd=28805 frr=1.00  msec=268
+INFO     : Iter  6: overlap=3090    heapops=881607     (68%) cpd=28811 frr=1.00  msec=225
+INFO     : Iter  7: overlap=2349    heapops=695645     (72%) cpd=28817 frr=1.00  msec=201
+INFO     : Iter  8: overlap=1881    heapops=504802     (76%) cpd=28818 frr=1.00  msec=168
+INFO     : Iter  9: overlap=1642    heapops=406152     (78%) cpd=28822 frr=1.00  msec=149
+INFO     : Iter 10: overlap=1463    heapops=390704     (78%) cpd=28832 frr=1.00  msec=160
+INFO     : Iter 11: overlap=1335    heapops=341858     (79%) cpd=28834 frr=1.00  msec=146
+INFO     : Iter 12: overlap=1156    heapops=325772     (79%) cpd=28854 frr=1.00  msec=133
+INFO     : Iter 13: overlap=990     heapops=312181     (79%) cpd=28869 frr=1.00  msec=134
+INFO     : Iter 14: overlap=905     heapops=299961     (80%) cpd=28880 frr=1.00  msec=130
+INFO     : Iter 15: overlap=837     heapops=305375     (80%) cpd=28893 frr=1.00  msec=125
+INFO     : Iter 16: overlap=740     heapops=302822     (80%) cpd=28929 frr=1.00  msec=126
+INFO     : Iter 17: overlap=621     heapops=328173     (80%) cpd=29037 frr=1.01  msec=131
+INFO     : Iter 18: overlap=533     heapops=310385     (80%) cpd=29113 frr=1.01  msec=128
+INFO     : Iter 19: overlap=465     heapops=299814     (80%) cpd=29150 frr=1.01  msec=125
+INFO     : Iter 20: overlap=417     heapops=299905     (80%) cpd=29113 frr=1.01  msec=123
+INFO     : Iter 21: overlap=356     heapops=277697     (80%) cpd=29160 frr=1.01  msec=117
+INFO     : Iter 22: overlap=298     heapops=280468     (80%) cpd=29451 frr=1.02  msec=116
+INFO     : Iter 23: overlap=260     heapops=289580     (80%) cpd=29462 frr=1.02  msec=121
+INFO     : Iter 24: overlap=222     heapops=290642     (80%) cpd=29632 frr=1.03  msec=121
+INFO     : [Rebuild Parallel Routing Scheduler]
+INFO     : Iter 25: overlap=170     heapops=276130     (80%) cpd=29768 frr=1.03  msec=143
+INFO     : Iter 26: overlap=126     heapops=250056     (80%) cpd=29886 frr=1.04  msec=129
+INFO     : Iter 27: overlap=100     heapops=259768     (80%) cpd=29980 frr=1.04  msec=123
+INFO     : Iter 28: overlap=72      heapops=271894     (80%) cpd=30114 frr=1.05  msec=127
+INFO     : Iter 29: overlap=42      heapops=249198     (80%) cpd=30213 frr=1.05  msec=126
+INFO     : Iter 30: overlap=30      heapops=235607     (81%) cpd=30249 frr=1.05  msec=117
+INFO     : Iter 31: overlap=26      heapops=250762     (80%) cpd=30202 frr=1.05  msec=121
+INFO     : Iter 32: overlap=17      heapops=251369     (80%) cpd=30349 frr=1.05  msec=122
+INFO     : Iter 33: overlap=6       heapops=238878     (80%) cpd=30259 frr=1.05  msec=122
+INFO     : Iter 34: overlap=6       heapops=229113     (81%) cpd=30367 frr=1.05  msec=118
+INFO     : Iter 35: overlap=5       heapops=228792     (81%) cpd=30402 frr=1.06  msec=116
+INFO     : Iter 36: overlap=5       heapops=228538     (81%) cpd=30427 frr=1.06  msec=115
+INFO     : Iter 37: overlap=2       heapops=234856     (80%) cpd=30402 frr=1.06  msec=118
+INFO     : Iter 38: overlap=1       heapops=227574     (81%) cpd=30427 frr=1.06  msec=115
+INFO     : Iter 39: overlap=1       heapops=227311     (81%) cpd=30427 frr=1.06  msec=117
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 0.00% (from 4513ps to 4513ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 2200ps to 2200ps)
+INFO     : CSS improved CPD of clock core_clk by 0.00% (from 4449ps to 4449ps)
+INFO     : CSS improved CPD of clock tac_clk by 0.00% (from 2207ps to 2207ps)
+INFO     : CSS improved CPD of clock twd_clk by 0.00% (from 2298ps to 2298ps)
+INFO     : CSS improved CPD of clock clk_sys by 0.00% (from 7086ps to 7086ps)
+INFO     : CSS improved CPD of clock clk_pixel by 0.27% (from 30427ps to 30344ps)
+INFO     : CSS improved CPD of clock csi_rxc_i by 0.00% (from 3568ps to 3568ps)
+INFO     : Discretized beneficial skew improved geomean CPD by 0.02% (from 4513ps to 4512ps in 1 iterations and 0.4 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter 40: overlap=0       heapops=226746     (81%) cpd=30344 frr=1.05  msec=523
+INFO     : Iter 41: overlap=2       heapops=228236     (81%) cpd=30319 frr=1.05  msec=114
+INFO     : Iter 42: overlap=1       heapops=228541     (81%) cpd=30344 frr=1.05  msec=120
+INFO     : Iter 43: overlap=3       heapops=227545     (81%) cpd=30344 frr=1.05  msec=120
+INFO     : Iter 44: overlap=0       heapops=235070     (80%) cpd=30344 frr=1.05  msec=120
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Result
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Succeeded in 8.54 seconds taking 44 iterations! 
+INFO     : 
+INFO     : First iteration critical path delay = 28.809 ns 
+INFO     : Last iteration critical path delay  = 30.344 ns (ratio = 1.05)
+INFO     : Max Routing Heap Size = 3,011
+INFO     : Routing trace written to file 'D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.troutingtraces' 
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing took 15.4018 seconds.
+INFO     : 	Routing took 51.375 seconds (approximately) in total CPU time.
+INFO     : Routing virtual memory usage: begin = 194.272 MB, end = 308.708 MB, delta = 114.436 MB
+INFO     : 	Routing peak virtual memory usage = 426.244 MB
+INFO     : Routing resident set memory usage: begin = 207.7 MB, end = 321.932 MB, delta = 114.232 MB
+INFO     : 	Routing peak resident set memory usage = 404.628 MB
+           ***** Beginning stage final timing analysis ... *****
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] No valid object(s) found for 'dsi_refclk_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:14] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] No valid object(s) found for 'clk_pixel_2x'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:24] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] No valid object(s) found for 'clk_54m'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] No valid pin(s) found for clock
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:29] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:35] set_clock_groups: Defaulting to -exclusive since none of the required option was specified
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:78] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:78] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:79] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:79] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:80] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:80] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:81] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:81] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:82] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:82] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:83] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:83] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:84] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:84] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:85] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:85] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:86] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:86] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:87] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:87] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:88] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:88] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:89] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:89] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:90] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:90] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:91] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:91] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:92] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:92] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:93] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:93] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:94] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:94] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:95] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:95] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:96] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:96] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:97] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:97] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:341] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:341] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:342] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:342] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:347] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:347] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:348] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:348] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:576] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:576] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:577] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:577] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:578] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:578] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:579] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:579] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:580] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:580] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:581] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:581] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:582] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:582] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:583] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:583] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:584] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:584] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:585] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:585] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:586] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:586] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:587] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:587] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:588] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:588] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:589] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:589] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:590] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:590] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:591] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:591] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:592] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:592] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:593] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:593] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:594] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:594] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:595] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:595] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:596] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:596] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:597] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:597] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:598] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:598] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:599] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:599] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:600] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:600] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:601] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:601] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:602] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:602] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:603] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:603] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:604] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:604] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:605] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:605] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:606] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:606] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:607] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/Ti60_Demo.pt.sdc:607] Unable to run 'set_input_delay' constraint due to warnings found
+Maximum possible analyzed clocks frequency
+ Clock Name  Period (ns)  Frequency (MHz)     Edge
+ tdqss_clk       2.310       432.900         (R-R)
+ core_clk        4.559       219.346         (R-R)
+ tac_clk         2.312       432.526         (R-R)
+ twd_clk         2.408       415.282         (R-R)
+ clk_sys         7.196       138.966         (R-R)
+ clk_pixel      30.443        32.848         (R-R)
+ csi_rxc_i       3.678       271.887         (R-R)
+
+Geomean max period: 4.653
+
+Setup (Max) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           2.604            0.294           (R-R)
+   tdqss_clk        core_clk            2.604            2.130           (R-R)
+   core_clk         tdqss_clk           2.604            1.457           (R-R)
+   core_clk         core_clk            5.208            0.649           (R-R)
+   core_clk         tac_clk             2.604            2.240           (R-R)
+   core_clk         twd_clk             0.541            0.305           (R-R)
+   tac_clk          core_clk            2.604            2.101           (R-R)
+   tac_clk          tac_clk             2.604            0.292           (R-R)
+   twd_clk          twd_clk             2.604            0.196           (R-R)
+   clk_sys          clk_sys            10.417            3.221           (R-R)
+   clk_pixel        clk_pixel          13.441          -17.002           (R-R)
+   csi_rxc_i        csi_rxc_i           6.000            2.322           (R-R)
+
+Hold (Min) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           0.000           0.045            (R-R)
+   tdqss_clk        core_clk            0.000           0.150            (R-R)
+   core_clk         tdqss_clk           0.000           0.076            (R-R)
+   core_clk         core_clk            0.000           0.027            (R-R)
+   core_clk         tac_clk             0.000           0.067            (R-R)
+   core_clk         twd_clk            -1.883           2.016            (R-R)
+   tac_clk          core_clk            0.000           0.159            (R-R)
+   tac_clk          tac_clk             0.000           0.029            (R-R)
+   twd_clk          twd_clk             0.000           0.071            (R-R)
+   clk_sys          clk_sys             0.000           0.026            (R-R)
+   clk_pixel        clk_pixel           0.000           0.099            (R-R)
+   csi_rxc_i        csi_rxc_i           0.000           0.029            (R-R)
+
+WARNING  : Clock domain between clk_pixel (rising) and clk_pixel (rising) may not meet (slack: -17.002 ns) the setup (max) timing requirement
+INFO     : Write Timing Report to "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow\Ti60_Demo.timing.rpt" ...
+INFO     : final timing analysis took 11.3616 seconds.
+INFO     : 	final timing analysis took 11.7188 seconds (approximately) in total CPU time.
+INFO     : final timing analysis virtual memory usage: begin = 352.924 MB, end = 394.228 MB, delta = 41.304 MB
+INFO     : 	final timing analysis peak virtual memory usage = 426.244 MB
+INFO     : final timing analysis resident set memory usage: begin = 365.036 MB, end = 403.008 MB, delta = 37.972 MB
+INFO     : 	final timing analysis peak resident set memory usage = 404.628 MB
+           ***** Ending stage final timing analysis *****
+           
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(12): Input/inout port clk_24m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(13): Input/inout port clk_25m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(22): Input/inout port clk_pixel_2x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(23): Input/inout port clk_pixel_10x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(31): Input/inout port dsi_refclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(32): Input/inout port dsi_byteclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(33): Input/inout port dsi_serclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(34): Input/inout port dsi_txcclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(61): Input/inout port clk_lvds_1x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(62): Input/inout port clk_lvds_7x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(63): Input/inout port clk_27m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(64): Input/inout port clk_54m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(98): Input/inout port i_dqs_n_hi[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(99): Input/inout port i_dqs_n_lo[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(123): Input/inout port csi_ctl0_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(127): Input/inout port csi_ctl1_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(133): Input/inout port csi_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(162): Input/inout port csi_rxd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(163): Input/inout port csi_rxd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(164): Input/inout port csi_rxd1_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(171): Input/inout port csi_rxd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(172): Input/inout port csi_rxd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(173): Input/inout port csi_rxd2_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(180): Input/inout port csi_rxd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(181): Input/inout port csi_rxd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(182): Input/inout port csi_rxd3_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(244): Input/inout port dsi_txd0_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(245): Input/inout port dsi_txd0_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(246): Input/inout port dsi_txd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(247): Input/inout port dsi_txd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(248): Input/inout port dsi_txd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(249): Input/inout port dsi_txd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(250): Input/inout port dsi_txd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(251): Input/inout port dsi_txd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(256): Input/inout port uart_rx_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(266): Input/inout port cmos_sdat_IN is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(271): Input/inout port cmos_pclk is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(272): Input/inout port cmos_vsync is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(273): Input/inout port cmos_href is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(274): Input/inout port cmos_data[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(275): Input/inout port cmos_ctl1 is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(325): Input/inout port lcd_tp_sda_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(329): Input/inout port lcd_tp_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(333): Input/inout port lcd_tp_int_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(353): Input/inout port lcd_b7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(354): Input/inout port lcd_g7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\ApplicationD\Efinity\Ti60F225_AD2020_HDMI_Display_120FPS\example_top.v(355): Input/inout port lcd_r7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : CE port of EFX_DSP48 instance mult_184 is permanently disabled [VDB-8002]
+WARNING  : Found 99 warnings in the post-synthesis netlist.
+INFO     : VDB Netlist Checker took 0.0152816 seconds.
+INFO     : 	VDB Netlist Checker took 0.03125 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 369.156 MB, end = 369.156 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak virtual memory usage = 426.244 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 383.276 MB, end = 383.276 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 404.628 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Net clk_lvds_1x promoted to global due to interface constraints.
+INFO     : Net cmos_pclk promoted to global due to interface constraints.
+INFO     : Net clk_pixel_10x promoted to global due to interface constraints.
+INFO     : Net clk_lvds_7x promoted to global due to interface constraints.
+INFO     : Net clk_27m promoted to global due to interface constraints.
+INFO     : Net dsi_serclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_byteclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_txcclk_i promoted to global due to interface constraints.
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : logical_block #0(clk_24m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #1(clk_25m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #5(clk_pixel_2x) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #9(dsi_refclk_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #33(clk_54m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #149(i_dqs_n_hi[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #150(i_dqs_n_hi[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #151(i_dqs_n_lo[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #152(i_dqs_n_lo[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #171(csi_ctl0_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #174(csi_ctl1_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #177(csi_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #202(csi_rxd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #203(csi_rxd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #204(csi_rxd1_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #205(csi_rxd1_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #206(csi_rxd1_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #207(csi_rxd1_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #208(csi_rxd1_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #209(csi_rxd1_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #210(csi_rxd1_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #211(csi_rxd1_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #215(csi_rxd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #216(csi_rxd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #217(csi_rxd2_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #218(csi_rxd2_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #219(csi_rxd2_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #220(csi_rxd2_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #221(csi_rxd2_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #222(csi_rxd2_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #223(csi_rxd2_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #224(csi_rxd2_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #228(csi_rxd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #229(csi_rxd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #230(csi_rxd3_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #231(csi_rxd3_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #232(csi_rxd3_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #233(csi_rxd3_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #234(csi_rxd3_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #235(csi_rxd3_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #236(csi_rxd3_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #237(csi_rxd3_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #310(dsi_txd0_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #311(dsi_txd0_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #312(dsi_txd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #313(dsi_txd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #314(dsi_txd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #315(dsi_txd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #316(dsi_txd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #317(dsi_txd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #318(uart_rx_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #327(cmos_sdat_IN) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #331(cmos_vsync) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #332(cmos_href) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #333(cmos_data[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #334(cmos_data[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #335(cmos_data[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #336(cmos_data[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #337(cmos_data[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #338(cmos_data[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #339(cmos_data[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #340(cmos_data[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #341(cmos_ctl1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #439(lcd_tp_sda_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #442(lcd_tp_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #445(lcd_tp_int_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #500(lcd_b7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #501(lcd_b7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #502(lcd_b7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #503(lcd_b7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #504(lcd_b7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #505(lcd_b7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #506(lcd_b7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #507(lcd_b7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #508(lcd_g7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #509(lcd_g7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #510(lcd_g7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #511(lcd_g7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #512(lcd_g7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #513(lcd_g7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #514(lcd_g7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #515(lcd_g7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #516(lcd_r7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #517(lcd_r7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #518(lcd_r7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #519(lcd_r7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #520(lcd_r7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #521(lcd_r7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #522(lcd_r7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #523(lcd_r7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : Pass 0: Swept away 90 blocks with no fanout.
+INFO     : Pass 1: Swept away 0 nets with no fanout.
+INFO     : Pass 1: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 90 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Sweept away 90 nodes
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.vdb".
+INFO     : Netlist pre-processing took 0.179709 seconds.
+INFO     : 	Netlist pre-processing took 0.1875 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 352.388 MB, end = 382.556 MB, delta = 30.168 MB
+INFO     : 	Netlist pre-processing peak virtual memory usage = 426.244 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 366.472 MB, end = 396.152 MB, delta = 29.68 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 404.628 MB
+           ***** Ending stage netlist pre-processing *****
+           
+           ***** Beginning stage packed netlist loading ... *****
+INFO     : Load Global Network took 0.405279 seconds.
+INFO     : 	Load Global Network took 0.171875 seconds (approximately) in total CPU time.
+INFO     : Load Global Network virtual memory usage: begin = 382.556 MB, end = 390.868 MB, delta = 8.312 MB
+INFO     : 	Load Global Network peak virtual memory usage = 426.244 MB
+INFO     : Load Global Network resident set memory usage: begin = 396.16 MB, end = 404.704 MB, delta = 8.544 MB
+INFO     : 	Load Global Network peak resident set memory usage = 404.704 MB
+INFO     : Reading D:/ApplicationD/Efinity/Efinity2025/arch/.\rr_pb_hier_mapping.xml
+INFO     : Read proto netlist file D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/work_pnr\Ti60_Demo.net_proto
+INFO     : Read proto netlist for file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/work_pnr\Ti60_Demo.net_proto" took 0.012 seconds
+INFO     : Setup net and block data structure took 0.108 seconds
+INFO     : Reading core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Packed netlist loading took 0.714447 seconds.
+INFO     : 	Packed netlist loading took 0.484375 seconds (approximately) in total CPU time.
+INFO     : Packed netlist loading virtual memory usage: begin = 382.556 MB, end = 422.228 MB, delta = 39.672 MB
+INFO     : 	Packed netlist loading peak virtual memory usage = 426.244 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 396.152 MB, end = 433.6 MB, delta = 37.448 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 433.6 MB
+           ***** Ending stage packed netlist loading *****
+           
+INFO     : Run checks after load placement.
+INFO     : Reading core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+WARNING  : Clock net led_o[5] should not drive a normal pad, led_o[5]. Clock should only drive clkout pads defined in Interface Designer.
+INFO     : Successfully loaded placement data from "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.place".
+           ***** Beginning stage bitstream generation ... *****
+INFO     : Reading core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Finished writing bitstream file D:/ApplicationD/Efinity/Ti60F225_AD2020_HDMI_Display_120FPS/work_pnr\Ti60_Demo.lbf.
+INFO     : Bitstream generation took 1.57366 seconds.
+INFO     : 	Bitstream generation took 1.54688 seconds (approximately) in total CPU time.
+INFO     : Bitstream generation virtual memory usage: begin = 387.372 MB, end = 474.94 MB, delta = 87.568 MB
+INFO     : 	Bitstream generation peak virtual memory usage = 474.94 MB
+INFO     : Bitstream generation resident set memory usage: begin = 398.936 MB, end = 487.656 MB, delta = 88.72 MB
+INFO     : 	Bitstream generation peak resident set memory usage = 487.656 MB
+           ***** Ending stage bitstream generation *****
+           
+INFO     : The entire flow of EFX_PNR took 59.8457 seconds.
+INFO     : 	The entire flow of EFX_PNR took 139.234 seconds (approximately) in total CPU time.
+INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 19.884 MB, end = 474.94 MB, delta = 455.056 MB
+INFO     : 	The entire flow of EFX_PNR peak virtual memory usage = 474.94 MB
+INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 21.084 MB, end = 487.684 MB, delta = 466.6 MB
+INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 487.684 MB
